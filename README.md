@@ -1,8 +1,8 @@
 
 
 # Stocks Averages
-<img width="755" alt="Screenshot 2024-04-03 at 7 18 13 PM" src="https://github.com/samdobson28/stocks-app/assets/134799184/f433a77a-e01e-4afd-a2b2-930a5261157e">
 
+<img width="400" alt="Screenshot 2024-04-03 at 7 18 13 PM" src="https://github.com/samdobson28/stocks-app/assets/134799184/f433a77a-e01e-4afd-a2b2-930a5261157e">
 
 ## Table of Contents
 - [Getting Started](#getting-started)
