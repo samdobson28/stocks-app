@@ -7,10 +7,8 @@
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Technology Stack](#technology-stack)
-- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Troubleshooting](#troubleshooting)
-- [Future Considerations](#future-considerations)
 
 ## Getting Started
 This simple react web app takes in data from data.txt with a fetch('/data.txt') endpoint, then averages each stock's avg price with a processData function, and displays it on a React frontend. It also console logs the array produced by the function. The console log can be seen by inspecting the webpage after starting it. See [Installation](#installation) to start.
